@@ -14,6 +14,6 @@
 απομακρύνεται από αυτά δυναμικά, δηλαδή σε πραγματικό χρόνο. Έτσι δεν είναι απαραίτητη πλέον η δημιουργία πολλαπλών μοντέλων για ένα αντικείμενο σώζοντας 
 χρήμα και χρόνο. Έχει αποδειχτεί οτι παρέχει και καλύτερη απόδοση σε από την τεχνολογία LOD άρα θεωρείται ανώτερη με κάθε τρόπο.
 
-{% include figure image_path="/images/Nanite.jpg" caption="Figure 1:Nanite eikona ." id="fig:LOD" %}
+{% include figure image_path="/images/Nanite.jpg" caption="Figure 1:Nanite eikona ." id="fig:Nanite" %}
 
 
