@@ -11,4 +11,4 @@ tags:
   - Nanite
 ---
 
-{% include cs-Nanite-technology.md %}
+{% include nanite-technology.md %}
