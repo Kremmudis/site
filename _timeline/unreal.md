@@ -5,6 +5,4 @@ image_url: /images/unreal.jpg
 caption: Μηχανή δημιουργίας παιχνιδιών Engine. 
 events:
   - unrealhistory 
-  - predictive-text
-  - knowledge-navigator
 ---
